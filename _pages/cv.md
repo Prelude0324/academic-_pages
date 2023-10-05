@@ -13,18 +13,6 @@ Education
 ======
 * B.S. in Water Conservancy and Hydropower Engineering , Dalian University of Technology, 2021
 * M.S. in Hydrology and Water Resources, Dalian University of Technology, 2023 (expected)
-
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
   
 Skills
 ======
