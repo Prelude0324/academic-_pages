@@ -9,12 +9,12 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
+# <font color= #cb2e49>**Education**</font>
+
 * B.S. in Water Conservancy and Hydropower Engineering , Dalian University of Technology, 2021
 * M.S. in Hydrology and Water Resources, Dalian University of Technology, 2024 (expected)
 
-# Research Experience
+# <font color= #cb2e49>**Research Experience**</font>
 
 - Research on Water-Energy-Ecosystem Nexus in hydro-based power systems (Apr 2023 - Present):
   - Establishing a multi-timescale two-layer nested framework to explore the Water-Energy-Ecosystem Nexus in hydro-based power systems.
@@ -33,13 +33,13 @@ Education
 Skills
 ======
 - Optimization
-  - Deterministic optimization: Mixed Integer Linear Programming (MILP), Dynamic Programming (DP), Genetic Algorithm (GA)
-  - Uncertainty optimization:  Stochastic Programming (SP)
-  - Multi-objective optimization: Normalized Normal Constraint (NNC), Non-dominated Sorted Genetic Algorithm II (NSGA-II)
+  - <font color= #4472c4>Deterministic optimization:</font> Mixed Integer Linear Programming (MILP), Dynamic Programming (DP), Genetic Algorithm (GA)
+  - <font color= #4472c4>Uncertainty optimization:</font> Stochastic Programming (SP)
+  - <font color= #4472c4>Multi-objective optimization:</font> Normalized Normal Constraint (NNC), Non-dominated Sorted Genetic Algorithm II (NSGA-II)
 
 - Statistics / Machine Learning：
-  - Supervised Learning: Artificial Neural Network (ANN), Support Vector Regression (SVR)
-  - Unsupervised Learning: Kernel Density Estimation (KDE), K-means
+  - <font color= #4472c4>Supervised Learning:</font>Artificial Neural Network (ANN), Support Vector Regression (SVR)
+  - <font color= #4472c4>Unsupervised Learning:</font> Kernel Density Estimation (KDE), K-means
 
 
 - Programming: Python, MATLAB, C
