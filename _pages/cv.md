@@ -29,10 +29,22 @@ redirect_from:
       </div>
 
   - Establishing a multi-timescale two-layer nested framework to explore the Water-Energy-Ecosystem Nexus in hydro-based power systems.
-
   - The outer layer consists of a long-term river basin-wide multi-objective optimization model, considering objectives such as water supply, hydropower generation, shipping, and sub-daily hydrological regime (hydropeaking).
-
   - The inner layer consists of a scenario-based stochastic programming model for multiple grids peak shaving operation under uncertainty originating from variable renewable energy, with an hourly resolution.
+
+  - 2132
+
+  - <div style="text-align: justify;">
+    Establishing a multi-timescale two-layer nested framework to explore the Water-Energy-Ecosystem Nexus in hydro-based power systems.
+    </div>
+
+  - <div style="text-align: justify;">
+    The inner layer consists of a scenario-based stochastic programming model for multiple grids peak shaving operation under uncertainty originating from variable renewable energy, with an hourly resolution.
+    </div>
+
+  - <div style="text-align: justify;">
+    The outer layer consists of a long-term river basin-wide multi-objective optimization model, considering objectives such as water supply, hydropower generation, shipping, and sub-daily hydrological regime (hydropeaking).
+    </div>
 
 - <div class="container" style="display: flex; justify-content: space-between;">
       <div><b>Research on multi-objective decision analysis for hydropower system</b></div>
