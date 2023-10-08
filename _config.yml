@@ -10,7 +10,7 @@ locale                   : "Dalian-China"
 title                    : "Xiangyu Ma"
 title_separator          : "-"
 name                     : &name "Xiangyu Ma"
-description              : &description "MSc Student at Dalian University of Technilogy studying Hydrology and Water Resources"
+description              : &description "MSc student studying Hydrology and Water Resources at Dalian University of Technilogy "
 url                      : https://prelude0324.github.io/academic_pages # the base hostname & protocol for your site e.g. "https://prelude0324.github.io/academic_pages"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Xiangyu Ma"
   avatar           : "profile.png"
-  bio              : "MSc Student at DUT studying Hydrology and Water Resources"
+  bio              : "MSc student majoring in Hydrology and Water Resources at DUT"
   location         : "Dalian-China"
   employer         :
   pubmed           :
