@@ -11,15 +11,15 @@ redirect_from:
 
 <h1 style="color: #3cb371;">Education</h1>
 
-<div class="container" style="display: flex; justify-content: space-between;">
-    <div><b>B.S. in Water Conservancy and Hydropower Engineering, Dalian University of Technology</b></div>
-    <div>(Jun 2021)</div>
-    </div>
+- <div class="container" style="display: flex; justify-content: space-between;">
+      <div><b>B.S. in Water Conservancy and Hydropower Engineering, Dalian University of Technology</b></div>
+      <div>(Jun 2021)</div>
+      </div>
 
-<div class="container" style="display: flex; justify-content: space-between;">
-    <div><b>M.S. in Hydrology and Water Resources, Dalian University of Technology</b></div>
-    <div>(Jun 2024, expected)</div>
-    </div>
+- <div class="container" style="display: flex; justify-content: space-between;">
+      <div><b>M.S. in Hydrology and Water Resources, Dalian University of Technology</b></div>
+      <div>(Jun 2024, expected)</div>
+      </div>
 
 <h1 style="color: #3cb371;">Research Experience</h1>
 
