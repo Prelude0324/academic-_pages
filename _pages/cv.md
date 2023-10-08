@@ -27,8 +27,6 @@ redirect_from:
     <div><b>Research on Water-Energy-Ecosystem Nexus in hydro-based power systems</b></div>
     <div>(Apr 2023 - Present)</div>
     </div>
-
-
 - <div style="text-align: justify;">
   Establishing a multi-timescale two-layer nested framework to explore the Water-Energy-Ecosystem Nexus in hydro-based power systems.
   </div>
@@ -45,8 +43,6 @@ redirect_from:
     <div><b>Research on multi-objective decision analysis for hydropower system</b></div>
     <div>(Aug 2022 - Mar 2023)</div>
     </div>
-
-
 - <div style="text-align: justify;">
   Constructing a short-term multi-objective mixed integer linear programming (MILP) model integrating multiple functions of hydropower reservoirs, including peak shaving, ship navigation, and power generation.
   </div>
@@ -59,8 +55,6 @@ redirect_from:
     <div><b>Research on short-term co-scheduling of giant and re-regulation reservoirs</b></div>
     <div>(Feb 2022 - Jul 2022)</div>
     </div>
-
-
 - <div style="text-align: justify;">
   Employing constraint aggregation and hexahedron gridding strategies to handle high-dimensional non-convex and nonlinear constraints in hydropower operation and improve solution efficiency.
   </div>
@@ -73,8 +67,6 @@ redirect_from:
     <div><b>Basic method practices in water resources system (Python)</b></div>
     <div>(Sep 2021 - Jan 2022)</div>
     </div>
-
-
 - <div style="text-align: justify;">
   Optimization methods for reservoir optimal operation: Genetic Algorithm (GA), Dynamic Programming (DP), Non-dominated Sorting Genetic Algorithm II (NSGA-II), etc.
   </div>
@@ -82,6 +74,16 @@ redirect_from:
 - <div style="text-align: justify;">
   Machine learning methods for runoff forecasting : Artificial Neural Network (ANN), Support Vector Regression (SVR), Seasonal AutoRegressive Integrated Moving Average (SARIMA), etc.
   </div>
+
+
+
+<h1 style="color: #3cb371;">Publications</h1>
+
+  <ul>{% for post in site.publications %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+
+
 
 <h1 style="color: #3cb371;">Skills</h1>
 
@@ -137,8 +139,16 @@ redirect_from:
 - [Geopandas](https://geopandas.org/en/stable/) (Geospatial Data Processing)
 - ...
 
-<h1 style="color: #3cb371;">Publications</h1>
 
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+
+<h1 style="color: #3cb371;">Awards</h1>
+
+<div class="container" style="display: flex; justify-content: space-between;">
+    <div><b>Excellent Graduate of Dalian University of Technology</b></div>
+    <div>(Sep 2023)</div>
+    </div>
+
+
+
+
+
