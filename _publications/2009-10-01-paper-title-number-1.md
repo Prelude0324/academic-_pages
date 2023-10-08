@@ -2,7 +2,7 @@
 title: "Multi-objective solution and decision-making framework for coordinating the short-term hydropeaking-navigation-production conflict of cascade hydropower reservoirs"
 collection: publications
 permalink: /publication/2023-08-27-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: 'The transformation of energy structure motivates hydropower to participate in peak shaving operations for grid stability, which conflicts with the multiple uses of cascade hydropower reservoirs. To coordinate the principal contradictory tasks of peak shaving, ship navigation, and power generation in day-ahead scheduling, a mixed integer linear programming model for the short-term multi-objective optimal scheduling is constructed. Specifically, a novel power release-based indicator is adopted to describe the navigation objective, while the minimization of the peak-valley difference of the residual load and the total water released are taken as the other two objective functions. Constraint aggregation and rectangular meshing methods are employed to handle the challenging nonlinear and nonconvex constraints. Subsequently, the Normalized Normal Constraint method, integrated with the mathematical optimization solver Gurobi, generates a set of well-distributed Pareto solutions, each representing a scheduling scheme. Finally, the Combined Weighting - Technique for Order Preference by Similarity to Ideal Solution is utilized as a decision-maker to trade off and determine a compromise solution for final implementation. Case studies on the cascade hydropower reservoirs of the Wujiang River in China demonstrate that the proposed model can adequately characterize the demands of various stakeholders, and the suggested framework can obtain an even and extensive Pareto front, mediate conflicts, and make reasonable decisions. Compared to the original peak-shaving scheme, the finalized compromise scheme reduces the peak-shaving effect by just 27.82 % but offers simultaneous boosts of 96.54 % in navigation benefits and 10.88 % in power generation benefits. Consequently, the presented framework can be a promising alternative for conflict resolution of cascade hydropower reservoirs.'
 date: 2023-08-27
 venue: 'Journal of Cleaner Production'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
@@ -10,6 +10,6 @@ citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 
 ---
 This paper is about the number 1. The number 2 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Download paper here](http://prelude0324.github.io/academic_pages/files/paper1.pdf)
 
 Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
