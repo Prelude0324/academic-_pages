@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: ""
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -141,7 +141,7 @@ redirect_from:
 
 
 
-<h1 style="color: #3cb371;">Awards</h1>
+<h1 style="color: #003399;">Awards</h1>
 
 <div class="container" style="display: flex; justify-content: space-between;">
     <div><b>Excellent Graduate of Dalian University of Technology</b></div>
