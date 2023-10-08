@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * B.S. in Water Conservancy and Hydropower Engineering , Dalian University of Technology, 2021
-* M.S. in Hydrology and Water Resources, Dalian University of Technology, 2023 (expected)
+* M.S. in Hydrology and Water Resources, Dalian University of Technology, 2024 (expected)
 
 # Research Experience
 
@@ -40,15 +40,21 @@ Skills
 - Machine learning:
   - Prediction in ungauged basins with ML
 - Programming: Python, MATLAB
+- Languages:
+  - Chinese (native speaker)
+  - English (IELTS, 7.0)
 - Software: 
-  - Gurobi (Optimizer)
-  - ArcGIS
-  - Adobe Illustrator
-  - Origin
+  - [Gurobi](https://www.gurobi.com/) (Optimizer)
+  - [ArcGIS](https://www.esri.com/en-us/home) 
+  - [Adobe Illustrator](https://www.adobe.com/)
+  - [Origin](https://www.originlab.com/)
 - Python Packages:
-  - Geatpy (Evolutionary Algorithm)
-  - Scikit Learn
-  - Geopandas
+  - [Pyomo](http://www.pyomo.org/) (Optimization Modeling)
+  - [Geatpy](https://github.com/geatpy-dev/geatpy) (Evolutionary Algorithm)
+  - [Scikit Learn](https://scikit-learn.org/stable/index.html) (Machine Learning)
+  - [Tensorflow](https://www.tensorflow.org/) (Deep Learing)
+  - [Geopandas](https://geopandas.org/en/stable/) (Geospatial Data Processing)
+  - ...
 
 Publications
 ======

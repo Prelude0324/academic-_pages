@@ -27,6 +27,6 @@ In the future, I aspire to further my research in sustainable management of wate
 
 I have published a first-authored academic paper in the Journal of Cleaner Production (JCR Q1, IF=11.1), focusing on multi-objective decision-making analysis for cascade hydropower reservoirs. Additionally, I have co-authored two SCI papers and one EI paper on topics related to runoff forecasting and hydropower operation. My accomplishments have been recognized through awards such as excellent graduate and first prize scholarship at DUT.
 
-# Personal Background
+# Personal Life
 
 I was born and raised in Liaoning Province, China. During my free time, I enjoy watching movies and playing musical instruments.
