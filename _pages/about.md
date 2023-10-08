@@ -15,7 +15,7 @@ I feel privileged to be a part of the Institute of Hydropower and Hydroinformati
 
 Currently, I am actively seeking a suitable Ph.D. position to advance my academic and research pursuits. You could refer to this website and following links for more information.
 
-[Email](mailto:XiangyuMa_DUT@outlook.com) / [CV](https://c.binjie.fun/files/Curriculum_Vitae.pdf) / [Github](https://github.com/Prelude0324) / [Researchgate](https://www.researchgate.net/profile/Xiangyu-Ma-21) /
+[Email](mailto:XiangyuMa_DUT@outlook.com) / [CV](https://prelude0324.github.io/academic_pages/files/Curriculum_Vitae.pdf) / [Github](https://github.com/Prelude0324) / [Researchgate](https://www.researchgate.net/profile/Xiangyu-Ma-21) /
 
 # Research Interests
 
