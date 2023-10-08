@@ -1,7 +1,7 @@
 ---
 title: "Daily peak-shaving model of cascade hydropower serving multi-grids considering an HVDC channel shared constraint"
 collection: publications
-permalink: /publication/2022-08-31-paper-title-number-2
+permalink: /publication/2022-08-31-paper-title-number-3
 excerpt: ''
 date: 2022-08-31
 venue: 'Renewable Energy'

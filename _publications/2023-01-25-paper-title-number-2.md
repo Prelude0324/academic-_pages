@@ -1,7 +1,7 @@
 ---
 title: "Runoff forecast model based on an EEMD-ANN and meteorological factors using a multicore parallel algorithm"
 collection: publications
-permalink: /publication/2023-01-25-paper-title-number-3
+permalink: /publication/2023-01-25-paper-title-number-2
 excerpt: 'This study proposes a hybrid long-term runoff forecasting framework that uses the antecedent inflow and specific meteorological factors as the inputs, is modeled by ensemble empirical mode decomposition (EEMD) coupled with an artificial neural network (ANN), and computed by a parallel algorithm.'
 date: 2023-01-25
 venue: 'Water Resources Management'
