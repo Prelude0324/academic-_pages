@@ -34,7 +34,7 @@ Skills
 ======
 - Methodology: 
   - Optimization
-    - Deterministic optimization: Linear Programming (LP), Mixed Integer Linear Programming (MILP), Dynamic Programming (DP), Genetic Algorithm (GA)
+    - Deterministic optimization: Mixed Integer Linear Programming (MILP), Dynamic Programming (DP), Genetic Algorithm (GA)
     - Uncertainty optimization:  Stochastic Programming (SP)
     - Multi-objective optimization: Normalized Normal Constraint (NNC), Non-dominated Sorted Genetic Algorithm II (NSGA-II)
 
