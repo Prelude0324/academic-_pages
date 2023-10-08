@@ -9,17 +9,24 @@ redirect_from:
 
 ---
 
+I am a third-year master's student at [Dalian University of Technology, DUT](https://en.dlut.edu.cn/), specializing in Hydrology and Water Resources. Prior to that, I obtained my Bachelor's degree in Water Conservancy and Hydropower Engineering from the same university.
 
+I feel privileged to be a part of the Institute of Hydropower and Hydroinformatics at DUT, where I have actively participated in innovative research projects focusing on hydropower and renewable energy operations. This experience has ignited my passion for studying sustainable water management and the water-energy nexus. Currently, I am actively seeking a suitable Ph.D. position to advance my academic and research pursuits.
 
-I'm a third year MSc student from [Faculty of Infrastructure Engineering](https://sche.dlut.edu.cn/English.htm), [Dalian University of Technology](https://en.dlut.edu.cn/). Prior to that, I earned my Bachelor's degree in Water Conservancy and Hydropower Engineering from the same university. 
-
-I am very fortunate to be advised by [Associate Prof. Shengli Liao](http://faculty.dlut.edu.cn/2009015007/en/index/694157/list/index.htm) of Hydropower and Hydroinformatics Institute from [School of Civil & Hydraulic Engineering](https://cs.pku.edu.cn/), Dalian University of Technology and looking forward to find a suitable Ph.D. position.
-
-You can find my CV here: [Xiangyu Ma's Curriculum Vitae](../files/Curriculum_Vitae.pdf).
+For more information, please refer to my Curriculum Vitae: [Xiangyu Ma's Curriculum Vitae](https://c.binjie.fun/files/Curriculum_Vitae.pdf).
 
 [Email](mailto:XiangyuMa_DUT@outlook.com) / [Github](https://github.com/Prelude0324) / [Researchgate](https://www.researchgate.net/profile/Xiangyu-Ma-21) /
 
-# Academic Interests
+# Research Interests
 
-My primary research interest includes hydropower (reservoir) operation, water resources management, and water-energy-ecosystem nexus. Currently, I am committed to utilizing multi-objective analysis and uncertainty optimization methods to find nexus solutions to tackle with the conflicting demands arising from multiple water uses, renewable energy systems, and riverine ecosystem service. So far, I have developed some Python-based tools to support multi-objective decision-making of hydropower system in China.
+My research interests primarily lie in reservoir (hydropower) operation, water resources management, and the water-energy-ecosystem nexus. Currently, I am dedicated to utilizing multi-objective optimization and uncertainty analysis techniques to find nexus solutions that address conflicting demands from multiple water uses, renewable energy systems, and riverine ecosystem services.
 
+If given the opportunity to obtain a Ph.D. position, I aspire to further my research in sustainable management of water-energy infrastructure, supporting decision analytics for such complex systems under climate changes by leveraging optimization, deep learning, and other theories.
+
+# Academic Achievements
+
+So far, I have published an academic paper in Journal of Cleaner Production (JCR Q1, IF=11.1), focusing on multi-objective decision-making analysis for cascade hydropower reservoirs. Additionally, I have co-authored two SCI papers and one EI paper, addressing topics related to runoff forecasting and hydropower operation. Additionally, I have won some awards such as excellent graduate and first prize scholarship of DUT.
+
+# Personal Background
+
+I was born and raised in Liaoning Province, China in 1999. During my free time, I enjoy watching movies and playing musical instruments.
