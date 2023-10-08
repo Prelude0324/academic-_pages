@@ -9,12 +9,12 @@ redirect_from:
 
 {% include base_path %}
 
-<h1 style="color: #2969A3;">Education</h1>
+<h1 style="color: #4169e1;">Education</h1>
 
 * B.S. in Water Conservancy and Hydropower Engineering , Dalian University of Technology, 2021
 * M.S. in Hydrology and Water Resources, Dalian University of Technology, 2024 (expected)
 
-<h1 style="color: #2969A3;">Research Experience</h1>
+<h1 style="color: #4169e1;">Research Experience</h1>
 
 - **Research on Water-Energy-Ecosystem Nexus in hydro-based power systems** (Apr 2023 - Present):
   - Establishing a multi-timescale two-layer nested framework to explore the Water-Energy-Ecosystem Nexus in hydro-based power systems.
@@ -30,7 +30,7 @@ redirect_from:
   - Optimization methods for reservoir optimal operation: Genetic Algorithm (GA), Dynamic Programming (DP), Non-dominated Sorting Genetic Algorithm II (NSGA-II), etc.
   - Machine learning methods for runoff forecasting : Artificial Neural Network (ANN), Support Vector Regression (SVR), Seasonal AutoRegressive Integrated Moving Average (SARIMA), etc.
 
-<h1 style="color: #2969A3;">Skills</h1>
+<h1 style="color: #4169e1;">Skills</h1>
 
 - **Optimization**
   - Deterministic optimization: Mixed Integer Linear Programming (MILP), Dynamic Programming (DP), Genetic Algorithm (GA)
@@ -60,7 +60,7 @@ redirect_from:
   - [Geopandas](https://geopandas.org/en/stable/) (Geospatial Data Processing)
   - ...
 
-<h1 style="color: #2969A3;">Publications</h1>
+<h1 style="color: #4169e1;">Publications</h1>
 
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
