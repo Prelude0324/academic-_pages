@@ -9,7 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
-# <font color= #cb2e49>**Education**</font>
+# <font color= #cb2e49>**213**</font>
+
+<h1 style="color: #cb2e49;">Education</h1>
 
 * B.S. in Water Conservancy and Hydropower Engineering , Dalian University of Technology, 2021
 * M.S. in Hydrology and Water Resources, Dalian University of Technology, 2024 (expected)
