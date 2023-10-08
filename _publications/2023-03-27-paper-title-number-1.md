@@ -1,7 +1,7 @@
 ---
 title: "MILP method for multi-objective short-term optimization scheduling of cascaded hydropower stations coupling peak-shaving and navigation demands"
 collection: publications
-permalink: /2023-03-27-paper-title-number-4
+permalink: /2023-03-27-paper-title-number-1
 excerpt: ''
 date: 2022-03-27
 venue: 'Electric Power Automation Equipment (EI, in Chinese)'
