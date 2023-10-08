@@ -15,7 +15,7 @@ I'm a third year MSc student from [Faculty of Infrastructure Engineering](https:
 
 I am very fortunate to be advised by [Associate Prof. Shengli Liao](http://faculty.dlut.edu.cn/2009015007/en/index/694157/list/index.htm) of Hydropower and Hydroinformatics Institute from [School of Civil & Hydraulic Engineering](https://cs.pku.edu.cn/), Dalian University of Technology and looking forward to find a suitable Ph.D. position.
 
-You can find my CV here: [Xiangyu Ma's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
+You can find my CV here: [Xiangyu Ma's Curriculum Vitae](../files/Curriculum_Vitae.pdf).
 
 [Email](mailto:XiangyuMa_DUT@outlook.com) / [Github](https://github.com/Prelude0324) / [Researchgate](https://www.researchgate.net/profile/Xiangyu-Ma-21) /
 

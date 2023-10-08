@@ -10,6 +10,9 @@ citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 
 ---
 This paper is about the number 1. The number 2 is left for future work.
 
+![Motivation](http://prelude0324.github.io/academic_pages/images/paper_1_fig_1.svg)
+
 [Download paper here](http://prelude0324.github.io/academic_pages/files/paper1.pdf)
 
 Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+
