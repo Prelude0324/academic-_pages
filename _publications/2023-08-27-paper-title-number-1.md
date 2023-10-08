@@ -6,14 +6,18 @@ excerpt: 'The transformation of energy structure motivates hydropower to partici
 date: 2023-08-27
 venue: 'Journal of Cleaner Production'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Ma et al., (2023). &quot;Multi-objective solution and decision-making framework for coordinating the short-term hydropeaking-navigation-production conflict of cascade hydropower reservoirs.&quot; <i>Journal of Cleaner Production</i>. 2023. 422:138602. '
+citation: 'Ma, X., Liao, S., Liu, B., Zhao, H., Cheng, C., Su, H., 2023. Multi-objective solution and decision-making framework for coordinating the short-term hydropeaking-navigation-production conflict of cascade hydropower reservoirs. J Clean Prod. 422, 138602. https://doi.org/10.1016/j.jclepro.2023.138602.'
 ---
 This paper presents a multi-objective analysis framework that supports decision-making for short-term hydropower operations, with the aim of resolving conflicts between peak shaving, ship navigation, and power generation. The framework is based on operations research and multi-criteria decision-making methods. Specifically, it utilizes Normalized Normal Constraint (NNC) and Mixed Integer Linear Programming (MILP) techniques to optimize the model. Furthermore, it adopts the Technique for Order Preference by Similarity to Ideal Solution (TOPSIS) approach to arrive at a compromise solution. A real-world case study conducted in China validates the efficacy of this framework as a promising alternative for resolving conflicts in hydropower systems.
 
 ![Motivation](http://prelude0324.github.io/academic_pages/images/paper_1_fig_1.svg)
 
+**Fig. 1.** Schematic diagram of correspondence between stakeholders, operational tasks, and objective functions
 
+
+
+![Framework](http://prelude0324.github.io/academic_pages/images/paper_1_fig_2.svg)
+
+**Fig. 2.** The solution procedures of modeling, solution and decision-making for STMOOS
 
 [Download paper here](http://prelude0324.github.io/academic_pages/files/paper1.pdf)
-
-Recommended citation: Xiangyu Ma, Shengli Liao, Benxi Liu, Hongye Zhao, Chuntian Cheng, Huaying Su. Multi-objective solution and decision-making framework for coordinating the short-term hydropeaking-navigation-production conflict of cascade hydropower reservoirs. Journal of Cleaner Production. 2023. 422:138602.  
