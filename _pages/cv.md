@@ -32,14 +32,18 @@ Education
 
 Skills
 ======
-- Decision making support:
+- Methodology: 
   - Optimization
-  - Robustness analysis
-  - Scenario discovery
-  - Sensitivity analysis
-- Machine learning:
-  - Prediction in ungauged basins with ML
-- Programming: Python, MATLAB
+    - Deterministic optimization: Linear Programming (LP), Mixed Integer Linear Programming (MILP), Dynamic Programming (DP), Genetic Algorithm (GA)
+    - Uncertainty optimization:  Stochastic Programming (SP)
+    - Multi-objective optimization: Normalized Normal Constraint (NNC), Non-dominated Sorted Genetic Algorithm II (NSGA-II)
+
+  - Statistics / Machine Learning：
+    - Supervised Learning: Artificial Neural Network (ANN), Support Vector Regression (SVR)
+    - Unsupervised Learning: Kernel Density Estimation (KDE), K-means
+
+
+- Programming: Python, MATLAB, C
 - Languages:
   - Chinese (native speaker)
   - English (IELTS, 7.0)
@@ -48,6 +52,7 @@ Skills
   - [ArcGIS](https://www.esri.com/en-us/home) 
   - [Adobe Illustrator](https://www.adobe.com/)
   - [Origin](https://www.originlab.com/)
+  - ...
 - Python Packages:
   - [Pyomo](http://www.pyomo.org/) (Optimization Modeling)
   - [Geatpy](https://github.com/geatpy-dev/geatpy) (Evolutionary Algorithm)
