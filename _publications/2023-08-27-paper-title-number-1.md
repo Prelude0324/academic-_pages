@@ -2,7 +2,7 @@
 title: "Multi-objective solution and decision-making framework for coordinating the short-term hydropeaking-navigation-production conflict of cascade hydropower reservoirs"
 collection: publications
 permalink: /publication/2023-08-27-paper-title-number-1
-excerpt: 'This paper presents a multi-objective analysis framework that supports decision-making for short-term hydropower operations, with the aim of resolving conflicts between peak shaving, ship navigation, and power generation. The framework is based on operations research and multi-criteria decision-making methods. Specifically, it utilizes Normalized Normal Constraint (NNC) and Mixed Integer Linear Programming (MILP) techniques to optimize the model. Furthermore, it adopts the Technique for Order Preference by Similarity to Ideal Solution (TOPSIS) approach to arrive at a compromise solution. A real-world case study conducted in China validates the efficacy of this framework as a promising alternative for resolving conflicts in hydropower systems.'
+excerpt: 'This study presents a multi-objective analysis framework that supports decision-making for short-term hydropower operations, with the aim of resolving conflicts between peak shaving, ship navigation, and power generation. The framework is based on operations research and multi-criteria decision-making techniques. A real-world case study in China validates the efficacy of this framework as a promising alternative for resolving conflicts in hydropower systems.'
 date: 2023-08-27
 venue: 'Journal of Cleaner Production'
 paperurl: 'https://doi.org/10.1016/j.jclepro.2023.138602'
