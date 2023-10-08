@@ -9,7 +9,7 @@ redirect_from:
 
 ---
 
-<h1 style="color: #3cb371;">About me</h1>
+<h1 style="color: #003399;">About me</h1>
 
 I am a third-year master's student at [Dalian University of Technology, DUT](https://en.dlut.edu.cn/), specializing in Hydrology and Water Resources. I also hold a Bachelor's degree in Water Conservancy and Hydropower Engineering from the same university.
 
@@ -21,7 +21,7 @@ Currently, I am actively seeking a suitable Ph.D. position to advance my academi
 
 
 
-<h1 style="color: #3cb371;">Research Interests</h1>
+<h1 style="color: #003399;">Research Interests</h1>
 
 My research interests primarily lie in reservoir (hydropower) operation, water resources management, and the water-energy-ecosystem nexus. Currently, I am dedicated to utilizing multi-objective optimization and uncertainty analysis techniques to find nexus solutions that address conflicting demands from multiple water uses, renewable energy systems, and riverine ecosystem services.
 
@@ -29,12 +29,12 @@ In the future, I aspire to further my research in sustainable management of wate
 
 
 
-<h1 style="color: #3cb371;">Academic Achievements</h1>
+<h1 style="color: #003399;">Academic Achievements</h1>
 
 I have published a first-authored academic paper in the Journal of Cleaner Production (JCR Q1, IF=11.1), focusing on multi-objective decision-making analysis for cascade hydropower reservoirs. Additionally, I have co-authored two SCI papers and one EI paper on topics related to runoff forecasting and hydropower operation. My accomplishments have been recognized through awards such as excellent graduate and first prize scholarship at DUT.
 
 
 
-<h1 style="color: #3cb371;">Personal Life</h1>
+<h1 style="color: #003399;">Personal Life</h1>
 
 I was born and raised in Liaoning Province, China. During my free time, I enjoy watching movies and playing musical instruments.
