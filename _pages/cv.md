@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-<h1 style="color: #4a6b9c;">Education</h1>
+<h1 style="color: #3cb371;">Education</h1>
 
 * <div class="container" style="display: flex; justify-content: space-between;">
       <div><b>B.S. in Water Conservancy and Hydropower Engineering, Dalian University of Technology</b></div>
@@ -18,10 +18,10 @@ redirect_from:
 
 * <div class="container" style="display: flex; justify-content: space-between;">
       <div><b>M.S. in Hydrology and Water Resources, Dalian University of Technology</b></div>
-      <div>2024 (expected)</div>
+      <div>(2024, expected)</div>
       </div>
 
-<h1 style="color: #4a6b9c;">Research Experience</h1>
+<h1 style="color: #3cb371;">Research Experience</h1>
 
 - <div class="container" style="display: flex; justify-content: space-between;">
       <div><b>Research on Water-Energy-Ecosystem Nexus in hydro-based power systems</b></div>
@@ -58,7 +58,7 @@ redirect_from:
   - Optimization methods for reservoir optimal operation: Genetic Algorithm (GA), Dynamic Programming (DP), Non-dominated Sorting Genetic Algorithm II (NSGA-II), etc.
   - Machine learning methods for runoff forecasting : Artificial Neural Network (ANN), Support Vector Regression (SVR), Seasonal AutoRegressive Integrated Moving Average (SARIMA), etc.
 
-<h1 style="color: #4a6b9c;">Skills</h1>
+<h1 style="color: #3cb371;">Skills</h1>
 
 - **Optimization**
   - Deterministic optimization: Mixed Integer Linear Programming (MILP), Dynamic Programming (DP), Genetic Algorithm (GA)
@@ -88,7 +88,7 @@ redirect_from:
   - [Geopandas](https://geopandas.org/en/stable/) (Geospatial Data Processing)
   - ...
 
-<h1 style="color: #4a6b9c;">Publications</h1>
+<h1 style="color: #3cb371;">Publications</h1>
 
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
