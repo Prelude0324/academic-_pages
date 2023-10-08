@@ -32,15 +32,14 @@ Education
 
 Skills
 ======
-- Methodology: 
-  - Optimization
-    - Deterministic optimization: Mixed Integer Linear Programming (MILP), Dynamic Programming (DP), Genetic Algorithm (GA)
-    - Uncertainty optimization:  Stochastic Programming (SP)
-    - Multi-objective optimization: Normalized Normal Constraint (NNC), Non-dominated Sorted Genetic Algorithm II (NSGA-II)
+- Optimization
+  - Deterministic optimization: Mixed Integer Linear Programming (MILP), Dynamic Programming (DP), Genetic Algorithm (GA)
+  - Uncertainty optimization:  Stochastic Programming (SP)
+  - Multi-objective optimization: Normalized Normal Constraint (NNC), Non-dominated Sorted Genetic Algorithm II (NSGA-II)
 
-  - Statistics / Machine Learning：
-    - Supervised Learning: Artificial Neural Network (ANN), Support Vector Regression (SVR)
-    - Unsupervised Learning: Kernel Density Estimation (KDE), K-means
+- Statistics / Machine Learning：
+  - Supervised Learning: Artificial Neural Network (ANN), Support Vector Regression (SVR)
+  - Unsupervised Learning: Kernel Density Estimation (KDE), K-means
 
 
 - Programming: Python, MATLAB, C
