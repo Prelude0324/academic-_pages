@@ -161,7 +161,13 @@ redirect_from:
     <div><b>Excellent Graduate of Dalian University of Technology</b></div>
     <div>(Sep 2023)</div>
     </div>
+<div class="container" style="display: flex; justify-content: space-between;">
+    <div><b>First Prize Scholarship of Dalian University of Technology</b></div>
+    <div>(Sep 2023)</div>
+    </div>
 
-
-
+<div class="container" style="display: flex; justify-content: space-between;">
+    <div><b>Third Prize in Structural Design Competition of Dalian University of Technology</b></div>
+    <div>(Jun 2019)</div>
+    </div>
 
