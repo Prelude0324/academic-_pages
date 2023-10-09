@@ -19,7 +19,11 @@ Since I joined Institute of Hydropower and Hydroinformatics at DUT in 2021, I ha
 - Finding: National Natural Science Foundation of China (NSFC)
 - Role: Researcher
 
-
+|              |                                                     |      |
+| ------------ | --------------------------------------------------- | ---- |
+| [Time](#)    | 2023.04 - Present                                   |      |
+| [Finding](#) | National Natural Science Foundation of China (NSFC) |      |
+| [Role](#)    | Researcher                                          |      |
 
 <div class="container" style="display: flex; justify-content: space-between;">
     <div><b>Research on Intelligent Modeling and Solution Methods for Cascade Hydropower Participation in the Spot Market Clearing</b></div>
