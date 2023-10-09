@@ -9,9 +9,7 @@ redirect_from:
 
 <h1 style="color: #24367d;">Projects</h1>
 
-Since I joined Institute of Hydropower and Hydroinformatics at DUT, I have been deeply involved in reservoir operation modeling research in which my primary responsibilities involved conducting research on sub-topics, handling and analyzing data, designing graphical user interfaces, and composing reports. After rigorous training in these projects, I have acquired solid theoretical knowledge and practical production experience in the field of water resources system management. 
-
-Since I joined Professor Cheng Chuntian's team in 2018, I have been deeply involved in reservoir operation modeling research, participated in a number of National Natural Science Foundation (key and general projects), and served as the student leader of a number of crosswise tasks (actual projects of provincial power grid and hydropower Basin Companies), with an in-depth understanding of reservoir system optimization modeling and actual operation. After rigorous training in the above research projects, I have acquired solid theoretical knowledge and practical production experience in the field of water resources system management.
+Since I joined Institute of Hydropower and Hydroinformatics at DUT in 2021, I have been deeply involved in research projects regarding reservoir and renewable energy system operation, in which my primary responsibilities involved conducting research on sub-topics, handling and analyzing data, designing graphical user interfaces, and composing reports. After rigorous training in these projects, I have acquired solid theoretical knowledge and practical production experience in the field of water resources system management. 
 
 <div class="container" style="display: flex; justify-content: space-between;">
     <div><b>Research on Short-term Complementary Coordination and Real-time Control Strategies of Wind-Solar-Hydro under the Dispatching Mode Centered on Cascade Hydropower Stations</b></div>
