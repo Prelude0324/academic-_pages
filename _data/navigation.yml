@@ -10,8 +10,8 @@ main:
   - title: "Blog Posts"
     url: /year-archive/
 
-  - title: "Guide"
-    url: /markdown/
+  - title: "Research"
+    url: /talks/
 
   - title: "Projects"
-    url: /talks/
+    url: /markdown/
