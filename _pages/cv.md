@@ -90,31 +90,46 @@ redirect_from:
     <div><b>Optimization</b></div>
     </div>
 
-- <div style="text-align: justify;">
-  Deterministic optimization: Mixed Integer Linear Programming (MILP), Dynamic Programming (DP), Genetic Algorithm (GA)
-  </div>
+- Deterministic optimization
+  
+  - Mixed Integer Linear Programming (MILP)
+  - Dynamic Programming (DP)
+  - Genetic Algorithm (GA)
+  
+- Uncertainty optimization
 
-- <div style="text-align: justify;">
-  Uncertainty optimization: Stochastic Programming (SP)
-  </div>
+  - Stochastic Programming (SP)
 
-- <div style="text-align: justify;">
-  Multi-objective optimization: Normalized Normal Constraint (NNC), Non-dominated Sorted Genetic Algorithm II (NSGA-II)
-  </div>
+- Multi-objective optimization: 
+
+  - Normalized Normal Constraint (NNC)
+  - Non-dominated Sorted Genetic Algorithm II (NSGA-II)
+
 
 <div class="container" style="display: flex; justify-content: space-between;">
     <div><b>Statistics / Machine Learning</b></div>
     </div>
 
-- <div style="text-align: justify;">
-  Supervised Learning: Artificial Neural Network (ANN), Support Vector Regression (SVR)
-  </div>
+- Statistics Learning
 
-- <div style="text-align: justify;">
-  Unsupervised Learning: Kernel Density Estimation (KDE), K-means
-  </div>
+  - AutoRegressive Integrated Moving Average (ARIMA)
 
-**Programming:** Python, MATLAB, C
+- Supervised Learning
+
+  - Artificial Neural Network (ANN)
+  - Support Vector Regression (SVR)
+
+- Unsupervised Learning
+
+  - Kernel Density Estimation (KDE)
+  - K-means
+
+
+**Programming:** 
+
+- Python
+- MATLAB
+- C
 
 **Languages:**
 
