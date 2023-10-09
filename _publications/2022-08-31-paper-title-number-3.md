@@ -12,5 +12,5 @@ citation: 'Liao, S., Yang, H., Liu, B., Zhao, H., Liu, H., Ma, X., Wu, H., 2022.
 
 **Keywords:** Hydropower transmission, Multiple grids peak-shaving, Sharing HVDC channel, Constraint restructuring
 
-[Download paper here](http://prelude0324.github.io/academic_pages/files/paper4.pdf)
+[Download paper here](http://prelude0324.github.io/academic_pages/files/paper3.pdf)
 
