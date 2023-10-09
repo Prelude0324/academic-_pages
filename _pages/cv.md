@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-<h1 style="color: #082949;">Education</h1>
+<h1 style="color: #24367d;">Education</h1>
 
 - <div class="container" style="display: flex; justify-content: space-between;">
       <div><b>B.S. in Water Conservancy and Hydropower Engineering, Dalian University of Technology</b></div>
@@ -21,7 +21,7 @@ redirect_from:
       <div>(Jun 2024, expected)</div>
       </div>
 
-<h1 style="color: #082949;">Research Experience</h1>
+<h1 style="color: #24367d;">Research Experience</h1>
 
 <div class="container" style="display: flex; justify-content: space-between;">
     <div><b>Research on Water-Energy-Ecosystem Nexus in hydro-based power systems</b></div>
@@ -77,15 +77,14 @@ redirect_from:
 
 
 
-<h1 style="color: #082949;">Publications</h1>
+<h1 style="color: #24367d;">Publications</h1>
 
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
 
-
-<h1 style="color: #082949;">Skills</h1>
+<h1 style="color: #24367d;">Skills</h1>
 
 <div class="container" style="display: flex; justify-content: space-between;">
     <div><b>Optimization</b></div>
@@ -141,7 +140,7 @@ redirect_from:
 
 
 
-<h1 style="color: #082949;">Awards</h1>
+<h1 style="color: #24367d;">Awards</h1>
 
 <div class="container" style="display: flex; justify-content: space-between;">
     <div><b>Excellent Graduate of Dalian University of Technology</b></div>
