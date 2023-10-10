@@ -109,12 +109,12 @@ redirect_from:
   - Normalized Normal Constraint (NNC)
   - Non-dominated Sorted Genetic Algorithm II (NSGA-II)
 
-
 <div class="container" style="display: flex; justify-content: space-between;">
-    <div><b>Statistics / Machine Learning</b></div>
+    <div><b>Statistical / Machine Learning</b></div>
     </div>
 
-- Statistics Learning
+
+- Statistical Learning
 
   - AutoRegressive Integrated Moving Average (ARIMA)
 

@@ -25,7 +25,7 @@ Currently, I am actively seeking a suitable Ph.D. position to advance my academi
 
 My research interests primarily lie in reservoir (hydropower) operation, water resources management, and the water-energy-ecosystem nexus. Presently, I am dedicated to utilizing multi-objective optimization and uncertainty analysis techniques to find nexus solutions that address conflicting demands from multiple water uses, renewable energy systems, and riverine ecosystem services.
 
-In the future, I aspire to further my research in sustainable management of water-energy infrastructure, leveraging optimization, deep learning, and other relevant theories to support decision-making for such complex systems under the influence of climate change.
+In the future, I aspire to further my research in sustainable management of water-energy system, leveraging optimization, deep learning, and other relevant theories to support decision-making for such complex systems under the influence of climate change.
 
 
 
