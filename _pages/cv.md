@@ -24,9 +24,10 @@ redirect_from:
 <h1 style="color: #24367d;">Research Experience</h1>
 
 <div class="container" style="display: flex; justify-content: space-between;">
-    <div><b><a href="https://prelude0324.github.io/academic_pages/talks/2023-10-04-talk-4">Research on Water-Energy-Ecosystem Nexus in hydro-based power systems</a></b></div>
+    <div><b><a href="https://prelude0324.github.io/academic_pages/talks/2023-10-04-talk-4">Research on the Water-Energy-Ecosystem Nexus in hydro-based power systems</a></b></div>
     <div>(Apr 2023 - Present)</div>
     </div>
+
 
 - <div style="text-align: justify;">
   Establishing a multi-timescale two-layer nested framework to explore the Water-Energy-Ecosystem Nexus in hydro-based power systems.
@@ -112,8 +113,6 @@ redirect_from:
 <div class="container" style="display: flex; justify-content: space-between;">
     <div><b>Statistical / Machine Learning</b></div>
     </div>
-
-
 - Statistical Learning
 
   - AutoRegressive Integrated Moving Average (ARIMA)
