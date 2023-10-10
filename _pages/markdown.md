@@ -9,7 +9,7 @@ redirect_from:
 
 <h1 style="color: #24367d;">Projects</h1>
 
-Since I joined Institute of Hydropower and Hydroinformatics at DUT in 2021, I have been deeply involved in research projects regarding reservoir and renewable energy system operation, in which my primary responsibilities involved conducting research on sub-topics, handling and analyzing data, designing graphical user interfaces, and composing reports. 
+Since I joined Institute of Hydropower and Hydroinformatics, I have been deeply involved in research projects regarding reservoir and hydropower system operation, in which my primary responsibilities involved conducting research on sub-topics, handling and analyzing data, designing graphical user interfaces, and composing reports. 
 
 After rigorous training in these projects, I have acquired solid theoretical knowledge and practical production experience in the field of water resources system management. The following is a list of partial projects:
 
@@ -42,8 +42,13 @@ After rigorous training in these projects, I have acquired solid theoretical kno
     </div>
 
 - Time: 2022.07 - Present
-- Finding: China Southern Power Grid Co., Ltd. (CSG, the world's largest hydropower system enterprise, with 120 GW hydropower installed capacity, nearly 8.6% of the global total of [1,397 GW)](https://www.hydropower.org/)
+
+- Finding: China Southern Power Grid Co., Ltd. 
+
+  (CSG, the world's largest hydropower system enterprise, with 120 GW hydropower installed capacity, nearly 8.6% of the global total of [1,397 GW)](https://www.hydropower.org/)
+
 - Role: Researcher, responsible for data compilation and analysis, designing prototype interface for monitoring pumped storage hydropower plants
+
 - Outcomes: A software system
 
 <div class="container" style="display: flex; justify-content: space-between;">
