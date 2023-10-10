@@ -207,11 +207,8 @@
 		<text x="1048" dominant-baseline="auto" y="929" fill="black" font-family="Times New Roman,'MS PGothic',SimSun" font-size="67" font-weight="400">
 			<tspan x="1048" style="white-space:pre;font-kerning:none" xml:space="preserve">  Plant B Discharge</tspan>
 		</text>
-		<text x="718" dominant-baseline="auto" y="823" fill="black" font-family="宋体,'MS PGothic',SimSun" font-size="67" font-weight="400">
-			<tspan x="718" style="font-kerning:none">时间/</tspan>
-		</text>
-		<text x="886" dominant-baseline="auto" y="823" fill="black" font-family="Times New Roman,'MS PGothic',SimSun" font-size="67" font-weight="400">
-			<tspan x="886" style="font-kerning:none">h</tspan>
+		<text x="605" dominant-baseline="auto" y="823" fill="black" font-family="Times New Roman,'MS PGothic',SimSun" font-size="67" font-weight="400">
+			<tspan x="605" style="white-space:pre;font-kerning:none" xml:space="preserve">Time Period (h)</tspan>
 		</text>
 		<text x="0" dominant-baseline="auto" y="0" fill="black" font-family="Times New Roman,'MS PGothic',SimSun" font-size="67" font-weight="400" transform="matrix(-1.83698e-16 -1 0.999999 -1.83698e-16 72 680)">
 			<tspan x="0" style="white-space:pre;font-kerning:none" xml:space="preserve">Tailwater Level (m)</tspan>
@@ -300,11 +297,8 @@
 		<text x="0" dominant-baseline="auto" y="0" fill="black" font-family="Times New Roman,'MS PGothic',SimSun" font-size="67" font-weight="400" transform="matrix(-1.83698e-16 -1 0.999999 -1.83698e-16 76 1667)">
 			<tspan x="0" style="white-space:pre;font-kerning:none" xml:space="preserve">Tailwater Level (m)</tspan>
 		</text>
-		<text x="707" dominant-baseline="auto" y="1814" fill="black" font-family="宋体,'MS PGothic',SimSun" font-size="67" font-weight="400">
-			<tspan x="707" style="font-kerning:none">时间/</tspan>
-		</text>
-		<text x="875" dominant-baseline="auto" y="1814" fill="black" font-family="Times New Roman,'MS PGothic',SimSun" font-size="67" font-weight="400">
-			<tspan x="875" style="font-kerning:none">h</tspan>
+		<text x="605" dominant-baseline="auto" y="1814" fill="black" font-family="Times New Roman,'MS PGothic',SimSun" font-size="67" font-weight="400">
+			<tspan x="605" style="white-space:pre;font-kerning:none" xml:space="preserve">Time Period (h)</tspan>
 		</text>
 		<polyline points="39,1894 191,1894" style="stroke: #EE7733;stroke-width: 6;stroke-linecap:round;stroke-linejoin:round" fill="none"/>
 		<text x="191" dominant-baseline="auto" y="1916" fill="black" font-family="Times New Roman,'MS PGothic',SimSun" font-size="67" font-weight="400">
