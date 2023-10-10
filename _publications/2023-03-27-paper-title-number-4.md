@@ -12,5 +12,7 @@ citation: 'Wu, H., Li, S., Tang, H., Ma, X., Zhang, X., Liao, S., 2023. MILP met
 
 **Key words:** Multi-objective optimization scheduling; Mixed-integer linear programming (MILP); Normal boundary intersection (NBI) method; Backwater
 
+[More details here](https://prelude0324.github.io/academic_pages/talks/2023-10-02-talk-2)
+
 [Download paper here](http://prelude0324.github.io/academic_pages/files/paper4.pdf)
 

@@ -22,4 +22,8 @@ citation: 'Ma, X., Liao, S., Liu, B., Zhao, H., Cheng, C., Su, H., 2023. Multi-o
 
 **Fig. 2.** The solution procedures of modeling, solution and decision-making for STMOOS
 
+
+
+[More details here](https://prelude0324.github.io/academic_pages/talks/2023-10-03-talk-3)
+
 [Download paper here](http://prelude0324.github.io/academic_pages/files/paper1.pdf)
