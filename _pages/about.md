@@ -15,7 +15,7 @@ I am a third-year master's student at [Dalian University of Technology (DUT)](ht
 
 Since joining the Institute of Hydropower and Hydroinformatics at DUT in 2021, I have been deeply involved in reservoir operation research. This experience has ignited my passion for studying sustainable water management and the water-energy nexus. 
 
-Currently, I am actively seeking a suitable Ph.D. position to advance my academic and research pursuits. Please You visit this website and refer to the following links for more information.
+Currently, I am actively seeking a suitable Ph.D. position to advance my academic and research pursuits. Please visit this website and refer to the following links for more information.
 
 [Email](mailto:XiangyuMa_DUT@outlook.com) / [CV](https://prelude0324.github.io/academic_pages/files/Curriculum_Vitae.pdf) / [Github](https://github.com/Prelude0324) / [Researchgate](https://www.researchgate.net/profile/Xiangyu-Ma-21) /
 
