@@ -24,9 +24,10 @@ redirect_from:
 <h1 style="color: #24367d;">Research Experience</h1>
 
 <div class="container" style="display: flex; justify-content: space-between;">
-    <div><b>Research on Water-Energy-Ecosystem Nexus in hydro-based power systems</b></div>
+    <div><b><a href="https://prelude0324.github.io/academic_pages/talks/2023-10-04-talk-4">Research on Water-Energy-Ecosystem Nexus in hydro-based power systems</a></b></div>
     <div>(Apr 2023 - Present)</div>
     </div>
+
 - <div style="text-align: justify;">
   Establishing a multi-timescale two-layer nested framework to explore the Water-Energy-Ecosystem Nexus in hydro-based power systems.
   </div>
@@ -40,9 +41,10 @@ redirect_from:
   </div>
 
 <div class="container" style="display: flex; justify-content: space-between;">
-    <div><b>Research on multi-objective decision analysis for hydropower system</b></div>
+    <div><b><a href="https://prelude0324.github.io/academic_pages/talks/2023-10-03-talk-3">Research on multi-objective decision analysis for hydropower system</a></b></div>
     <div>(Aug 2022 - Mar 2023)</div>
-    </div>
+</div>
+
 - <div style="text-align: justify;">
   Constructing a short-term multi-objective mixed integer linear programming (MILP) model integrating multiple functions of hydropower reservoirs, including peak shaving, ship navigation, and power generation.
   </div>
@@ -52,9 +54,10 @@ redirect_from:
   </div>
 
 <div class="container" style="display: flex; justify-content: space-between;">
-    <div><b>Research on short-term co-scheduling of giant and re-regulation reservoirs</b></div>
+    <div><b><a href="https://prelude0324.github.io/academic_pages/talks/2023-10-02-talk-2">Research on multi-objective co-scheduling of giant and re-regulation reservoirs</a></b></div>
     <div>(Feb 2022 - Jul 2022)</div>
-    </div>
+</div>
+
 - <div style="text-align: justify;">
   Employing constraint aggregation and hexahedron gridding strategies to handle high-dimensional non-convex and nonlinear constraints in hydropower operation and improve solution efficiency.
   </div>
@@ -64,9 +67,10 @@ redirect_from:
   </div>
 
 <div class="container" style="display: flex; justify-content: space-between;">
-    <div><b>Basic method practices in water resources system (Python)</b></div>
+    <div><b><a href="https://prelude0324.github.io/academic_pages/talks/2023-10-01-talk-1">Basic method practices in water resources system (Python)</a></b></div>
     <div>(Sep 2021 - Jan 2022)</div>
-    </div>
+</div>
+
 - <div style="text-align: justify;">
   Optimization methods for reservoir optimal operation: Genetic Algorithm (GA), Dynamic Programming (DP), Non-dominated Sorting Genetic Algorithm II (NSGA-II), etc.
   </div>
