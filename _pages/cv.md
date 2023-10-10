@@ -27,8 +27,6 @@ redirect_from:
     <div><b><a href="https://prelude0324.github.io/academic_pages/talks/2023-10-04-talk-4">Research on the Water-Energy-Ecosystem Nexus in hydro-based power systems</a></b></div>
     <div>(Apr 2023 - Present)</div>
     </div>
-
-
 - <div style="text-align: justify;">
   Establishing a multi-timescale two-layer nested framework to explore the Water-Energy-Ecosystem Nexus in hydro-based power systems.
   </div>
@@ -68,9 +66,10 @@ redirect_from:
   </div>
 
 <div class="container" style="display: flex; justify-content: space-between;">
-    <div><b><a href="https://prelude0324.github.io/academic_pages/talks/2023-10-01-talk-1">Basic method practices in water resources system (Python)</a></b></div>
+    <div><b><a href="https://prelude0324.github.io/academic_pages/talks/2023-10-01-talk-1">Practice of basic methods in water resources system (Python)</a></b></div>
     <div>(Sep 2021 - Jan 2022)</div>
 </div>
+
 
 - <div style="text-align: justify;">
   Optimization methods for reservoir optimal operation: Genetic Algorithm (GA), Dynamic Programming (DP), Non-dominated Sorting Genetic Algorithm II (NSGA-II), etc.
