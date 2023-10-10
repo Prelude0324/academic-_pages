@@ -2,7 +2,7 @@
 title: "MILP method for multi-objective short-term optimization scheduling of cascaded hydropower stations coupling peak-shaving and navigation demands"
 collection: publications
 permalink: /2023-03-27-paper-title-number-4
-excerpt: 'The contradiction between the peak shaving task of the power grid and the demand for river navigation is a critical problem faced by the cascade hydropower plants with navigation tasks. The jacking effect of interval backwater aggravates the complexity of the problem. Thus, a mixed-integer linear programming (MILP) model was established for multi-objective short-term optimal scheduling of cascade hydropower plants considering the influence of backwater.'
+excerpt: 'A mixed-integer linear programming (MILP) model considering complex backwater jacking effect is proposed to tackle the critical problem of balancing power grid peak shaving and river navigation demands in cascade hydropower plants.'
 date: 2022-03-27
 venue: 'Electric Power Automation Equipment (EI, in Chinese)'
 paperurl: 'https://doi.org/10.1016/j.jclepro.2023.138602'
