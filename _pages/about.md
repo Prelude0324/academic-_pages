@@ -11,9 +11,11 @@ redirect_from:
 
 <h1 style="color: #24367d;">About me</h1>
 
-I am a third-year master's student at [Dalian University of Technology (DUT)](https://en.dlut.edu.cn/), specializing in Hydrology and Water Resources. Since joining the Institute of Hydropower and Hydroinformatics at DUT in 2021, my research involvement has primarily centered around reservoir operation. This experience has ignited my passion for studying sustainable water management and the water-energy nexus. 
+I am a third-year master's student at [Dalian University of Technology (DUT)](https://en.dlut.edu.cn/), specializing in Hydrology and Water Resources. 
 
-Currently, I am actively seeking a suitable Ph.D. position to advance my academic and research pursuits. You could refer to this website and following links for more information.
+Since joining [Prof. Chuntian Cheng's group](http://faculty.dlut.edu.cn/1982011056/en/zhym/790854/list/index.htm) in 2021, I have been deeply involved in reservoir operation research. This experience has ignited my passion for studying sustainable water management and the water-energy nexus. 
+
+Currently, I am actively seeking a suitable Ph.D. position to advance my academic and research pursuits. Please You visit this website and refer to the following links for more information.
 
 [Email](mailto:XiangyuMa_DUT@outlook.com) / [CV](https://prelude0324.github.io/academic_pages/files/Curriculum_Vitae.pdf) / [Github](https://github.com/Prelude0324) / [Researchgate](https://www.researchgate.net/profile/Xiangyu-Ma-21) /
 
