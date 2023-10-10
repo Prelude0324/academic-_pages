@@ -2,7 +2,7 @@
 title: "Daily peak-shaving model of cascade hydropower serving multi-grids considering an HVDC channel shared constraint"
 collection: publications
 permalink: /publication/2022-08-31-paper-title-number-3
-excerpt: ''
+excerpt: 'High-voltage direct current (HVDC) is widely applied in large-scale hydropower transmission in China because of its long distance, large capacity and low power loss. However, when multiple hydropower stations send power by sharing one HVDC transmission channel, it is challenging to ensure the security of the sending-end power grid. To address this problem, a short-term peak-shaving model serving multiple power grids considering an HVDC channel shared (HCS) constraint is proposed.'
 date: 2022-08-31
 venue: 'Renewable Energy'
 paperurl: 'https://doi.org/10.1016/j.renene.2022.08.156'
