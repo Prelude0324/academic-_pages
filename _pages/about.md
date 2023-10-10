@@ -13,7 +13,7 @@ redirect_from:
 
 I am a third-year master's student at [Dalian University of Technology (DUT)](https://en.dlut.edu.cn/), specializing in Hydrology and Water Resources. 
 
-Since joining [Prof. Chuntian Cheng's group](http://faculty.dlut.edu.cn/1982011056/en/zhym/790854/list/index.htm) in 2021, I have been deeply involved in reservoir operation research. This experience has ignited my passion for studying sustainable water management and the water-energy nexus. 
+Since joining the Institute of Hydropower and Hydroinformatics at DUT in 2021, I have been deeply involved in reservoir operation research. This experience has ignited my passion for studying sustainable water management and the water-energy nexus. 
 
 Currently, I am actively seeking a suitable Ph.D. position to advance my academic and research pursuits. Please You visit this website and refer to the following links for more information.
 
