@@ -13,7 +13,7 @@ redirect_from:
 
 I am a third-year master's student at [Dalian University of Technology (DUT)](https://en.dlut.edu.cn/), specializing in Hydrology and Water Resources. I also hold a Bachelor's degree in Water Conservancy and Hydropower Engineering from the same university.
 
-I feel privileged to be a part of the Institute of Hydropower and Hydroinformatics at DUT, where I have participated in innovative research focusing on hydropower operation. This experience has ignited my passion for studying sustainable water management and the water-energy nexus. 
+I feel privileged to be a part of the Institute of Hydropower and Hydroinformatics at DUT, where I have participated in innovative research focusing on reservoir operation. This experience has ignited my passion for studying sustainable water management and the water-energy nexus. 
 
 Currently, I am actively seeking a suitable Ph.D. position to advance my academic and research pursuits. You could refer to this website and following links for more information.
 
