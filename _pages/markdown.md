@@ -2,6 +2,8 @@
 permalink: /markdown/
 title: ""
 author_profile: true
+header:
+  text_color: #24367d
 redirect_from: 
   - /md/
   - /markdown.html
