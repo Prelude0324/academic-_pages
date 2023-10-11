@@ -23,7 +23,7 @@ Currently, I am actively seeking a suitable Ph.D. position to advance my academi
 
 <h1 style="color: #24367d;">Research Interests</h1>
 
-My research interests primarily lie in reservoir (hydropower) operation, water resources management, and the water-energy-ecosystem nexus. Presently, I am dedicated to utilizing multi-objective optimization and uncertainty analysis techniques to find nexus solutions that address conflicting demands from multiple water uses, renewable energy systems, and riverine ecosystem services.
+My research interests primarily lie in reservoir (hydropower) operation, water resources management, and the water-energy-ecosystem nexus. Presently, I am dedicated to utilizing multi-objective optimization and uncertainty analysis techniques to find nexus solutions that address conflicting demands from multiple water uses, renewable energy systems, and riverine ecosystem services [(More information here)](https://prelude0324.github.io/academic_pages/talks/2023-10-04-talk-4).
 
 In the future, I aspire to further my research in sustainable management of water-energy system, leveraging optimization, deep learning, and other relevant theories to support decision-making for such complex systems under the influence of climate change.
 
@@ -31,7 +31,7 @@ In the future, I aspire to further my research in sustainable management of wate
 
 <h1 style="color: #24367d;">Academic Achievements</h1>
 
-I have published a first-authored academic paper in the [Journal of Cleaner Production](https://prelude0324.github.io/academic_pages/publication/2023-08-27-paper-title-number-1) (JCR Q1, IF=11.1), focusing on multi-objective decision analysis for cascade hydropower reservoirs. Additionally, I have co-authored two SCI papers and one EI paper on topics related to runoff forecasting and hydropower operation. My accomplishments have been recognized through awards such as excellent graduate and first prize scholarship at DUT.
+I have published a first-authored [academic paper](https://prelude0324.github.io/academic_pages/publication/2023-08-27-paper-title-number-1) in the Journal of Cleaner Production (JCR Q1, IF=11.1), focusing on multi-objective decision analysis for cascade hydropower reservoirs. Additionally, I have co-authored two SCI papers and one EI paper on topics related to runoff forecasting and hydropower operation. My accomplishments have been recognized through awards such as excellent graduate and first prize scholarship at DUT.
 
 
 
