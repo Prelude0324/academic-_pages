@@ -69,8 +69,6 @@ redirect_from:
     <div><b><a href="https://prelude0324.github.io/academic_pages/talks/2023-10-01-talk-1">Practice of basic methods in water resources system (Python)</a></b></div>
     <div>(Sep 2021 - Jan 2022)</div>
 </div>
-
-
 - <div style="text-align: justify;">
   Optimization methods for reservoir optimal operation: Genetic Algorithm (GA), Dynamic Programming (DP), Non-dominated Sorting Genetic Algorithm II (NSGA-II), etc.
   </div>
@@ -94,17 +92,17 @@ redirect_from:
     <div><b>Optimization</b></div>
     </div>
 <ul>
-  <li><b>Deterministic optimization</b></li>
+  <li>Deterministic optimization</li>
         <ul>
       <li><div style="text-align: justify;">Mixed Integer Linear Programming (MILP)</div></li>
       <li><div style="text-align: justify;">Dynamic Programming (DP)</div></li>
       <li><div style="text-align: justify;">Genetic Algorithm (GA)</div></li>
 		</ul>  
-  <li><b>Uncertainty optimization</b></li>
+  <li>Uncertainty optimization</li>
         <ul>
       <li><div style="text-align: justify;">Stochastic Programming (SP)</div></li>
 		</ul>  
-  <li><b>Multi-objective optimization</b></li>
+  <li>Multi-objective optimization</li>
         <ul>
       <li><div style="text-align: justify;">Normalized Normal Constraint (NNC)</div></li>
       <li><div style="text-align: justify;">Normal Boundary Intersection (NBI)</div></li>
@@ -116,22 +114,21 @@ redirect_from:
     <div><b>Statistical / Machine Learning</b></div>
     </div>
 <ul>
-  <li><b>Statistical Learning</b></li>
+  <li>Statistical Learning</li>
         <ul>
       <li><div style="text-align: justify;">AutoRegressive Integrated Moving Average (ARIMA)</div></li>
 		</ul>  
-  <li><b>Supervised Learning</b></li>
+  <li>Supervised Learning</li>
         <ul>
       <li><div style="text-align: justify;">Artificial Neural Network (ANN)</div></li>
       <li><div style="text-align: justify;">Support Vector Regression (SVR)</div></li>
 		</ul>  
-  <li><b>Multi-objective optimization</b></li>
+  <li>Unsupervised Learning</li>
         <ul>
       <li><div style="text-align: justify;">Kernel Density Estimation (KDE)</div></li>
       <li><div style="text-align: justify;">K-means</div></li>
 		</ul>  
 </ul>
-
 
 **Programming:** 
 
