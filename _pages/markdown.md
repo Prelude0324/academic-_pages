@@ -18,8 +18,25 @@ After rigorous training in these projects, I have acquired solid theoretical kno
     </div>
 
 - **Time:** 2023.04 - Present
-- **Finding:** National Natural Science Foundation of China (NSFC)
+- **Funding:** National Natural Science Foundation of China (NSFC)
 - **Role:** Researcher
+
+<table>
+    <tr>
+        <td><strong>Time:</strong></td>
+        <td>2023.04 - Present</td>
+    </tr>
+    <tr>
+        <td><strong>Funding:</strong></td>
+        <td>National Natural Science Foundation of China (NSFC)</td>
+    </tr>
+    <tr>
+        <td><strong>Role:</strong></td>
+        <td>Researcher</td>
+    </tr>
+</table>
+
+
 
 <div class="container" style="display: flex; justify-content: space-between;">
     <div><b>Research on Intelligent Modeling and Solution Methods for Cascade Hydropower Participation in the Spot Market Clearing</b></div>
@@ -27,7 +44,7 @@ After rigorous training in these projects, I have acquired solid theoretical kno
 
 - **Time:** 2021.10 - 2023.03
 
-- **Finding:** National Natural Science Foundation of China (NSFC)
+- **Funding:** National Natural Science Foundation of China (NSFC)
 
 - **Role:** Researcher, responsible for studying multi-objective analysis strategies supporting short-term operation of hydropower systems
 
@@ -37,13 +54,43 @@ After rigorous training in these projects, I have acquired solid theoretical kno
     Paper: <a href="https://prelude0324.github.io/academic_pages/publication/2023-08-27-paper-title-number-1">Multi-objective solution and decision-making framework for coordinating the short-term hydropeaking-navigation-production conflict of cascade hydropower reservoirs</a>
     </div>
 
+
+
+<table>
+    <tr>
+        <td><strong>Time:</strong></td>
+        <td>2021.10 - 2023.03</td>
+    </tr>
+    <tr>
+        <td><strong>Finding:</strong></td>
+        <td>National Natural Science Foundation of China (NSFC)</td>
+    </tr>
+    <tr>
+        <td><strong>Role:</strong></td>
+        <td>Researcher, responsible for studying multi-objective analysis strategies supporting short-term operation of hydropower systems
+     <tr>
+        <td><strong>Outcomes:</strong></td>
+        <td><div style="text-align: justify;">
+Paper: <a href="https://prelude0324.github.io/academic_pages/publication/2023-08-27-paper-title-number-1">Multi-objective solution and decision-making framework for coordinating the short-term hydropeaking-navigation-production conflict of cascade hydropower reservoirs</a>
+</div>
+            <div style="text-align: justify;">
+Patent (in Chinese): Method for determining the boundary of the bidding capacity of cascade hydropower stations participating in the day-ahead electricity spot market
+</div>
+            <div style="text-align: justify;">
+Patent (in Chinese): MILP model for multi-objective dispatching of cascade hydropower stations considering peak shaving and navigation
+</div>
+    </tr>
+    </tr>
+</td>
+</table>
+
 <div class="container" style="display: flex; justify-content: space-between;">
     <div><b>Development Project of Dispatching and Operation Analysis Functions for Pumped Storage Hydropower Stations</b></div>
     </div>
 
 - **Time:** 2022.07 - Present
 
-- **Finding:** China Southern Power Grid Co., Ltd. (CSG)
+- **Funding:** China Southern Power Grid Co., Ltd. (CSG)
 
   (the world's largest hydropower system enterprise, with 120 GW hydropower installed capacity, nearly 8.6% of the global total of [1,397 GW)](https://www.hydropower.org/)
 
@@ -57,7 +104,7 @@ After rigorous training in these projects, I have acquired solid theoretical kno
 
 - **Time:** 2021.10 - 2022.11
 
-- **Finding:** China Southern Power Grid Co., Ltd. (CSG)
+- **Funding:** China Southern Power Grid Co., Ltd. (CSG)
 
 - **Role:** Researcher, responsible for modeling and algorithm design for multi-objective scheduling of hydropower systems
 
