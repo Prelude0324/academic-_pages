@@ -93,38 +93,44 @@ redirect_from:
 <div class="container" style="display: flex; justify-content: space-between;">
     <div><b>Optimization</b></div>
     </div>
-
-- Deterministic optimization
-  
-  - Mixed Integer Linear Programming (MILP)
-  - Dynamic Programming (DP)
-  - Genetic Algorithm (GA)
-  
-- Uncertainty optimization
-
-  - Stochastic Programming (SP)
-
-- Multi-objective optimization: 
-
-  - Normalized Normal Constraint (NNC)
-  - Non-dominated Sorted Genetic Algorithm II (NSGA-II)
+<ul>
+  <li><b>Deterministic optimization</b></li>
+        <ul>
+      <li><div style="text-align: justify;">Mixed Integer Linear Programming (MILP)</div></li>
+      <li><div style="text-align: justify;">Dynamic Programming (DP)</div></li>
+      <li><div style="text-align: justify;">Genetic Algorithm (GA)</div></li>
+		</ul>  
+  <li><b>Uncertainty optimization</b></li>
+        <ul>
+      <li><div style="text-align: justify;">Stochastic Programming (SP)</div></li>
+		</ul>  
+  <li><b>Multi-objective optimization</b></li>
+        <ul>
+      <li><div style="text-align: justify;">Normalized Normal Constraint (NNC)</div></li>
+      <li><div style="text-align: justify;">Normal Boundary Intersection (NBI)</div></li>
+      <li><div style="text-align: justify;">Non-dominated Sorted Genetic Algorithm II (NSGA-II)</div></li>
+		</ul>  
+</ul>
 
 <div class="container" style="display: flex; justify-content: space-between;">
     <div><b>Statistical / Machine Learning</b></div>
     </div>
-- Statistical Learning
-
-  - AutoRegressive Integrated Moving Average (ARIMA)
-
-- Supervised Learning
-
-  - Artificial Neural Network (ANN)
-  - Support Vector Regression (SVR)
-
-- Unsupervised Learning
-
-  - Kernel Density Estimation (KDE)
-  - K-means
+<ul>
+  <li><b>Statistical Learning</b></li>
+        <ul>
+      <li><div style="text-align: justify;">AutoRegressive Integrated Moving Average (ARIMA)</div></li>
+		</ul>  
+  <li><b>Supervised Learning</b></li>
+        <ul>
+      <li><div style="text-align: justify;">Artificial Neural Network (ANN)</div></li>
+      <li><div style="text-align: justify;">Support Vector Regression (SVR)</div></li>
+		</ul>  
+  <li><b>Multi-objective optimization</b></li>
+        <ul>
+      <li><div style="text-align: justify;">Kernel Density Estimation (KDE)</div></li>
+      <li><div style="text-align: justify;">K-means</div></li>
+		</ul>  
+</ul>
 
 
 **Programming:** 
