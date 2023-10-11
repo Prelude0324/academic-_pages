@@ -74,3 +74,25 @@ After rigorous training in these projects, I have acquired solid theoretical kno
   - <div style="text-align: justify;">
     Patent (in Chinese): MILP model for multi-objective dispatching of cascade hydropower stations considering peak shaving and navigation
     </div>
+
+
+
+
+
+<div class="container" style="display: flex; justify-content: space-between;">
+  <div><b>Research oncas Market</b></div>
+</div>
+
+
+<ul>
+  <li><b>Time:</b> 2021.10 - 2022.11</li>
+  <li><b>Funding:</b> China Southern Power Grid Co., Ltd. (CSG)</li>
+  <li><b>Role:</b> Researcher, responsible for modeling and algorithm design for multi-objective scheduling of hydropower systems</li>
+  <li><b>Outcomes:</b>
+    <ul>
+      <li><div style="text-align: justify;">Paper (in Chinese): <a href="https://prelude0324.github.io/academic_pages/2023-03-27-paper-title-number-4">MILP method for multi-objective short-term optimization scheduling of cascaded hydropower stations coupling peak-shaving and navigation demands</a></div></li>
+      <li><div style="text-align: justify;">Patent (in Chinese): Method for determining the boundary of the bidding capacity of cascade hydropower stations participating in the day-ahead electricity spot market</div></li>
+      <li><div style="text-align: justify;">Patent (in Chinese): MILP model for multi-objective dispatching of cascade hydropower stations considering peak shaving and navigation</div></li>
+    </ul>
+  </li>
+</ul>
