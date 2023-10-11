@@ -1,13 +1,13 @@
 ---
 permalink: /markdown/
-title: "Projects"
+title: ""
 author_profile: true
-header:
-  text_color: '#24367d'
 redirect_from: 
   - /md/
   - /markdown.html
 ---
+
+<h1 style="color: #24367d;">Projects</h1>
 
 Since I joined the Institute of Hydropower and Hydroinformatics, I have been deeply involved in research projects regarding reservoir and hydropower system operation, in which my primary responsibilities involved conducting research on sub-topics, handling and analyzing data, designing graphical user interfaces, and composing reports. 
 
