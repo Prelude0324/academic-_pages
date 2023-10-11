@@ -21,23 +21,6 @@ After rigorous training in these projects, I have acquired solid theoretical kno
 - **Funding:** National Natural Science Foundation of China (NSFC)
 - **Role:** Researcher
 
-<table>
-    <tr>
-        <td><strong>Time:</strong></td>
-        <td>2023.04 - Present</td>
-    </tr>
-    <tr>
-        <td><strong>Funding:</strong></td>
-        <td>National Natural Science Foundation of China (NSFC)</td>
-    </tr>
-    <tr>
-        <td><strong>Role:</strong></td>
-        <td>Researcher</td>
-    </tr>
-</table>
-
-
-
 <div class="container" style="display: flex; justify-content: space-between;">
     <div><b>Research on Intelligent Modeling and Solution Methods for Cascade Hydropower Participation in the Spot Market Clearing</b></div>
     </div>
@@ -53,36 +36,6 @@ After rigorous training in these projects, I have acquired solid theoretical kno
   - <div style="text-align: justify;">
     Paper: <a href="https://prelude0324.github.io/academic_pages/publication/2023-08-27-paper-title-number-1">Multi-objective solution and decision-making framework for coordinating the short-term hydropeaking-navigation-production conflict of cascade hydropower reservoirs</a>
     </div>
-
-
-
-<table>
-    <tr>
-        <td><strong>Time:</strong></td>
-        <td>2021.10 - 2023.03</td>
-    </tr>
-    <tr>
-        <td><strong>Finding:</strong></td>
-        <td>National Natural Science Foundation of China (NSFC)</td>
-    </tr>
-    <tr>
-        <td><strong>Role:</strong></td>
-        <td>Researcher, responsible for studying multi-objective analysis strategies supporting short-term operation of hydropower systems
-     <tr>
-        <td><strong>Outcomes:</strong></td>
-        <td><div style="text-align: justify;">
-Paper: <a href="https://prelude0324.github.io/academic_pages/publication/2023-08-27-paper-title-number-1">Multi-objective solution and decision-making framework for coordinating the short-term hydropeaking-navigation-production conflict of cascade hydropower reservoirs</a>
-</div>
-            <div style="text-align: justify;">
-Patent (in Chinese): Method for determining the boundary of the bidding capacity of cascade hydropower stations participating in the day-ahead electricity spot market
-</div>
-            <div style="text-align: justify;">
-Patent (in Chinese): MILP model for multi-objective dispatching of cascade hydropower stations considering peak shaving and navigation
-</div>
-    </tr>
-    </tr>
-</td>
-</table>
 
 <div class="container" style="display: flex; justify-content: space-between;">
     <div><b>Development Project of Dispatching and Operation Analysis Functions for Pumped Storage Hydropower Stations</b></div>
