@@ -20,7 +20,6 @@ After rigorous training in these projects, I have acquired solid theoretical kno
   <li><b>Time:</b> 2023.04 - Present</li>
   <li><b>Funding:</b> National Natural Science Foundation of China (NSFC)</li>
   <li><b>Role:</b> Researcher</li>
-  </li>
 </ul>
 
 
@@ -46,8 +45,7 @@ After rigorous training in these projects, I have acquired solid theoretical kno
     </div>
 <ul>
   <li><b>Time:</b> 2022.07 - Present</li>
-  <li><b>Funding:</b> China Southern Power Grid Co., Ltd. (CSG)</li>
-  (the world's largest hydropower system enterprise, with 120 GW hydropower installed capacity, nearly 8.6% of the global total of <a href="https://www.hydropower.org/">1,397 GW</a>
+  <li><b>Funding:</b> China Southern Power Grid Co., Ltd. (CSG, the world's largest hydropower system enterprise, with 120 GW hydropower installed capacity, nearly 8.6% of the global total of <a href="https://www.hydropower.org/">1,397 GW</a>)</li>
   <li><b>Role:</b> Researcher, Researcher, responsible for data compilation and analysis, designing prototype interface for monitoring pumped storage hydropower plants</li>
   <li><b>Outcomes:</b> A software system
   </li>
