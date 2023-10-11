@@ -29,7 +29,7 @@ After rigorous training in these projects, I have acquired solid theoretical kno
 
 - Finding: National Natural Science Foundation of China (NSFC)
 
-- Role: Researcher, responsible for developing multi-objective analysis strategies supporting short-term operation of hydropower systems.
+- Role: Researcher, responsible for studying multi-objective analysis strategies supporting short-term operation of hydropower systems.
 
 - Outcomes:
 
@@ -43,9 +43,9 @@ After rigorous training in these projects, I have acquired solid theoretical kno
 
 - Time: 2022.07 - Present
 
-- Finding: China Southern Power Grid Co., Ltd. 
+- Finding: China Southern Power Grid Co., Ltd. (CSG)
 
-  (CSG, the world's largest hydropower system enterprise, with 120 GW hydropower installed capacity, nearly 8.6% of the global total of [1,397 GW)](https://www.hydropower.org/)
+  (the world's largest hydropower system enterprise, with 120 GW hydropower installed capacity, nearly 8.6% of the global total of [1,397 GW)](https://www.hydropower.org/)
 
 - Role: Researcher, responsible for data compilation and analysis, designing prototype interface for monitoring pumped storage hydropower plants
 
