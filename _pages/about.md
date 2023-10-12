@@ -15,7 +15,7 @@ I am a third-year master's student at [Dalian University of Technology (DUT)](ht
 
 Since joining the Institute of Hydropower and Hydroinformatics at DUT in 2021, I have been deeply involved in reservoir operation research. This experience has ignited my passion for studying sustainable water management and the water-energy nexus. 
 
-Currently, I am actively seeking a suitable Ph.D. position to advance my academic and research pursuits. Please visit this website and refer to the following links for more information.
+I am now actively seeking a Ph.D. position to advance my academic and research pursuits. Please review this website and following links for additional information.
 
 [Email](mailto:XiangyuMa_DUT@outlook.com) / [CV](https://prelude0324.github.io/academic_pages/files/Curriculum_Vitae.pdf) / [Github](https://github.com/Prelude0324) / [Researchgate](https://www.researchgate.net/profile/Xiangyu-Ma-21) /
 
@@ -23,9 +23,11 @@ Currently, I am actively seeking a suitable Ph.D. position to advance my academi
 
 <h1 style="color: #24367d;">Research Interests</h1>
 
-My research interests primarily lie in reservoir (hydropower) operation, water resources management, and the water-energy-ecosystem nexus. Presently, I am dedicated to utilizing multi-objective optimization and uncertainty analysis techniques to find nexus solutions that address conflicting demands from multiple water uses, renewable energy systems, and riverine ecosystem services [(More information here)](https://prelude0324.github.io/academic_pages/talks/2023-10-04-talk-4).
+My research interests primarily lie in reservoir (hydropower) operation, water resources management, and the water-energy-ecosystem nexus. 
 
-In the future, I aspire to further my research in sustainable management of water-energy system, leveraging optimization, deep learning, and other relevant theories to support decision-making for such complex systems under the influence of climate change.
+Currently, I am dedicated to utilizing multi-objective optimization and uncertainty analysis techniques to find nexus solutions that address conflicting demands from multiple water uses, renewable energy systems, and riverine ecosystem services [(More information here)](https://prelude0324.github.io/academic_pages/talks/2023-10-04-talk-4).
+
+In the future, I aspire to further my research in sustainable management of water-energy systems, leveraging optimization, deep learning, and other relevant theories to support decision-making for these complex systems under the influence of climate change.
 
 
 
