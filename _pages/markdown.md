@@ -51,8 +51,6 @@ After rigorous training in these projects, I have acquired solid theoretical kno
 </ul>
 
 
-
-
 <div class="container" style="display: flex; justify-content: space-between;">
     <div><b>Research on Key Technologies of China's Western Basin Hydropower Participation in the Electricity Spot Market</b></div>
     </div>
@@ -68,4 +66,3 @@ After rigorous training in these projects, I have acquired solid theoretical kno
     </ul>
   </li>
 </ul>
-

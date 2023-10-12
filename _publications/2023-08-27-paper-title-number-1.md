@@ -12,13 +12,13 @@ citation: 'Ma, X., Liao, S., Liu, B., Zhao, H., Cheng, C., Su, H., 2023. Multi-o
 
 **Key Words:** Multi-objective optimal scheduling; Peak shaving; Cascade hydropower reservoirs; Normalized normal constraint; Mixed integer linear Programming; CW-TOPSIS
 
-![Motivation](http://prelude0324.github.io/academic_pages/images/paper_1_fig_1.svg)
+![Motivation](http://prelude0324.github.io/academic_pages/images/paper_1_fig_1.png)
 
 **Fig. 1.** Schematic diagram of correspondence between stakeholders, operational tasks, and objective functions
 
 
 
-![Framework](http://prelude0324.github.io/academic_pages/images/paper_1_fig_2.svg)
+![Framework](http://prelude0324.github.io/academic_pages/images/paper_1_fig_2.png)
 
 **Fig. 2.** The solution procedures of modeling, solution and decision-making for STMOOS
 
