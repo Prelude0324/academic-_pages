@@ -31,7 +31,9 @@ In the future, I aspire to further my research in sustainable management of wate
 
 <h1 style="color: #24367d;">Academic Achievements</h1>
 
-I have published a first-authored [academic paper](https://prelude0324.github.io/academic_pages/publication/2023-08-27-paper-title-number-1) in the Journal of Cleaner Production (JCR Q1, IF=11.1), focusing on multi-objective decision analysis for cascade hydropower reservoirs. Additionally, I have co-authored two SCI papers and one EI paper on topics related to runoff forecasting and hydropower operation. My accomplishments have been recognized through awards such as excellent graduate and first prize scholarship at DUT.
+I have published a first-authored [academic paper](https://prelude0324.github.io/academic_pages/publication/2023-08-27-paper-title-number-1) in the Journal of Cleaner Production (JCR Q1, IF=11.1), focusing on multi-objective decision analysis for cascade hydropower reservoirs. 
+
+Additionally, I have co-authored two SCI papers and one EI paper on topics related to runoff forecasting and hydropower operation. My accomplishments have been recognized through awards such as excellent graduate and first prize scholarship at DUT.
 
 
 
