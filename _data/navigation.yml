@@ -11,7 +11,7 @@ main:
     url: /talks/
 
   - title: "Projects"
-    url: /markdown/
+    url: /projects/
      
   - title: "Blog Posts"
     url: /year-archive/
