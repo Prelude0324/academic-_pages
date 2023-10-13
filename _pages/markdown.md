@@ -15,7 +15,7 @@ Since I joined the Institute of Hydropower and Hydroinformatics, I have been dee
 
 After rigorous training in these projects, I have acquired solid theoretical knowledge and practical production experience in the field of water resources system management. The following is a list of partial projects:
 
-<div class="container" style="display: flex; justify-content: space-between;">
+<div class="container" style="display: flex; justify-content: space-between; color: #1346ac">
     <div><b>Research on Short-term Complementary Coordination and Real-time Control Strategies of Wind-Solar-Hydro under the Dispatching Mode Centered on Cascade Hydropower Stations</b></div>
     </div>
 <ul>
@@ -26,7 +26,7 @@ After rigorous training in these projects, I have acquired solid theoretical kno
 
 
 
-<div class="container" style="display: flex; justify-content: space-between;">
+<div class="container" style="display: flex; justify-content: space-between; color: #1346ac;">
     <div><b>Research on Intelligent Modeling and Solution Methods for Cascade Hydropower Participation in the Spot Market Clearing</b></div>
     </div>
 <ul>
@@ -41,7 +41,8 @@ After rigorous training in these projects, I have acquired solid theoretical kno
 </ul>
 
 
-<div class="container" style="display: flex; justify-content: space-between;">
+
+<div class="container" style="display: flex; justify-content: space-between; color: #1346ac">
     <div><b>Development Project of Dispatching and Operation Analysis Functions for Pumped Storage Hydropower Stations</b></div>
     </div>
 <ul>
@@ -53,7 +54,8 @@ After rigorous training in these projects, I have acquired solid theoretical kno
 </ul>
 
 
-<div class="container" style="display: flex; justify-content: space-between;">
+
+<div class="container" style="display: flex; justify-content: space-between; color: #1346ac">
     <div><b>Research on Key Technologies of China's Western Basin Hydropower Participation in the Electricity Spot Market</b></div>
     </div>
 <ul>
@@ -68,3 +70,4 @@ After rigorous training in these projects, I have acquired solid theoretical kno
     </ul>
   </li>
 </ul>
+
