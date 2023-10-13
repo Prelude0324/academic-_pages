@@ -9,6 +9,8 @@ redirect_from:
 
 <h1>Projects</h1>
 
+****
+
 Since I joined the Institute of Hydropower and Hydroinformatics, I have been deeply involved in research projects regarding reservoir and hydropower system operation, in which my primary responsibilities involved conducting research on sub-topics, handling and analyzing data, designing graphical user interfaces, and composing reports. 
 
 After rigorous training in these projects, I have acquired solid theoretical knowledge and practical production experience in the field of water resources system management. The following is a list of partial projects:
