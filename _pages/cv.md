@@ -81,9 +81,10 @@ redirect_from:
 
 <h1>Publications</h1>
 
-  <ul>{% for post in site.publications %}
+  <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+
 
 
 <h1>Skills</h1>
