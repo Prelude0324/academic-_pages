@@ -85,9 +85,7 @@ redirect_from:
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-
-
-<h1>Skills</h1>
+<h1 style="margin-top: 1em;">Skills</h1>
 
 <div class="container" style="display: flex; justify-content: space-between;">
     <div><b>Optimization</b></div>
