@@ -92,10 +92,12 @@
    ========================================================================== */
 
 .list__item {
+  margin-bottom: 1em;
+  
   .archive__item-title {
     margin-top: 0.5em;
   }
-  margin-bottom: 1em;
+
   @include breakpoint($medium) {
     padding-right: $right-sidebar-width-narrow;
   }
