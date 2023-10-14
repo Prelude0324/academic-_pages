@@ -87,7 +87,7 @@ redirect_from:
 
 
 
-<h1>Skills</h1>
+<h1><br>Skills</h1>
 
 <div class="container" style="display: flex; justify-content: space-between;">
     <div><b>Optimization</b></div>
