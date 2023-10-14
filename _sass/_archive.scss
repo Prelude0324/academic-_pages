@@ -91,24 +91,6 @@
    List view
    ========================================================================== */
 
-// .list__item {
-//   @include breakpoint($medium) {
-//     padding-right: $right-sidebar-width-narrow;
-//   }
-
-//   @include breakpoint($large) {
-//     padding-right: $right-sidebar-width;
-//   }
-
-//   @include breakpoint($x-large) {
-//     padding-right: $right-sidebar-width-wide;
-//   }
-
-//   .page__meta {
-//     margin: 0 0 4px;
-//   }
-// }
-
 .list__item {
   @include breakpoint($medium) {
     padding-right: $right-sidebar-width-narrow;
@@ -125,17 +107,8 @@
   .page__meta {
     margin: 0 0 4px;
   }
-
-  /* 根据时间倒序排序 */
-  flex-direction: column-reverse;
-
-  /* 缩小excerpt后段落间距 */
-  .excerpt {
-    p {
-      margin-bottom: 1px; /* 调整段落间距为2px */
-    }
-  }
 }
+
 
 /*
    Grid view
