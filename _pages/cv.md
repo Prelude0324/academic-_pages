@@ -79,7 +79,7 @@ redirect_from:
 
 
 
-<h1 style="margin-bottom: 1em;">Publications</h1>
+<h1>Publications</h1>
 
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
