@@ -92,9 +92,9 @@
    ========================================================================== */
 
 .list__item {
-  margin-bottom: 1em;
+  margin-bottom: 1.414em;
   .archive__item-title {
-    margin-top: 0.5em;
+    // margin-top: 0.5em;
   }
 
   @include breakpoint($medium) {
