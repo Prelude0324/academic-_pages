@@ -24,11 +24,12 @@ redirect_from:
 <h1>Research Experience</h1>
 
 <div class="container" style="display: flex; justify-content: space-between;">
-    <div><b><a href="https://prelude0324.github.io/academic_pages/talks/2023-10-04-talk-4">Research on the Water-Energy-Ecosystem Nexus in hydro-based power systems</a></b></div>
+    <div><b><a href="https://prelude0324.github.io/academic_pages/talks/2023-10-04-talk-4">Research on the water-energy-ecosystem nexus in large-scale water-energy systems</a></b></div>
     <div>(Apr 2023 - Present)</div>
     </div>
+
 - <div style="text-align: justify;">
-  Establishing a multi-timescale two-layer nested framework to explore the Water-Energy-Ecosystem Nexus in hydro-based power systems.
+  Establishing a multi-timescale two-layer nested framework to explore the water-energy-ecosystem nexus in hydro-based power systems.
   </div>
 
 - <div style="text-align: justify;">
