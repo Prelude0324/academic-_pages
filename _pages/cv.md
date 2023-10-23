@@ -24,20 +24,21 @@ redirect_from:
 <h1>Research Experience</h1>
 
 <div class="container" style="display: flex; justify-content: space-between;">
-    <div><b><a href="https://prelude0324.github.io/academic_pages/talks/2023-10-04-talk-4">Research on the water-energy-ecosystem nexus in large-scale water-energy systems</a></b></div>
+    <div><b><a href="https://prelude0324.github.io/academic_pages/talks/2023-10-04-talk-4">Research on the water-energy-ecosystem nexus in hydro-based power systems</a></b></div>
     <div>(Apr 2023 - Present)</div>
     </div>
 
+
 - <div style="text-align: justify;">
-  Establishing a multi-timescale two-layer nested framework to explore the water-energy-ecosystem nexus in hydro-based power systems.
+  Suggested a multi-timescale two-layer nested framework to investigate the water-energy-ecosystem nexus in hydro-based power systems.
   </div>
 
 - <div style="text-align: justify;">
-  The inner layer consists of a scenario-based stochastic programming model for multiple grids peak shaving operation under uncertainty originating from variable renewable energy, with an hourly resolution.
+  The outer layer is a long-term multi-objective water management model (with water levels as decision variables) balancing multi-sectoral performance in water supply, hydropower production, and sub-daily hydrological regime (hydropeaking).
   </div>
 
 - <div style="text-align: justify;">
-  The outer layer consists of a long-term river basin-wide multi-objective optimization model, considering objectives such as water supply, hydropower generation, shipping, and sub-daily hydrological regime (hydropeaking).
+  The inner layer is a scenario-based stochastic programming model (with power output as decision variables) optimizing the operation of renewables-dominated power system.
   </div>
 
 <div class="container" style="display: flex; justify-content: space-between;">
@@ -46,11 +47,11 @@ redirect_from:
 </div>
 
 - <div style="text-align: justify;">
-  Constructing a short-term multi-objective mixed integer linear programming (MILP) model integrating multiple functions of hydropower reservoirs, including peak shaving, ship navigation, and power generation.
+  Proposed a multi-objective mixed integer linear programming (MILP) model to coordinate conflicting demands in short-term hydropower operation, including peak shaving, ship navigation, and power generation.
   </div>
 
 - <div style="text-align: justify;">
-  Developing a solution and decision-making framework based on Normalized Normal Constraint (NNC) and TOPSIS methods to obtain Pareto solutions and coordinate multi-sector performance.
+  Developed a solution and decision-making framework using Normalized Normal Constraint (NNC) and TOPSIS methods for generating Pareto solutions and facilitating decision analysis.
   </div>
 
 <div class="container" style="display: flex; justify-content: space-between;">
@@ -59,11 +60,11 @@ redirect_from:
 </div>
 
 - <div style="text-align: justify;">
-  Employing constraint aggregation and hexahedron gridding strategies to handle high-dimensional non-convex and nonlinear constraints in hydropower operation and improve solution efficiency.
+  Employed constraint aggregation, trilinear interpolation, and SOS2 constraints to model and address high-dimensional nonlinear constraints in hydropower operation, resulting in improved solution efficiency.
   </div>
 
 - <div style="text-align: justify;">
-  Establishing a multi-objective optimization model based on Normal Boundary Intersection (NBI) and MILP to analyze and mediate the conflict between peak shaving and shipping.
+  Established a multi-objective optimization model based on Normal Boundary Intersection (NBI) and MILP to coordinate the conflicts between peak shaving and shipping.
   </div>
 
 <div class="container" style="display: flex; justify-content: space-between;">
