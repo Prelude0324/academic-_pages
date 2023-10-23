@@ -163,16 +163,26 @@ redirect_from:
 <h1>Honors and Awards</h1>
 
 - <div class="container" style="display: flex; justify-content: space-between;">
-      <div><b>Excellent Graduate of Dalian University of Technology</b></div>
+      <div><b>The Science & Technology Star Scholarship, CCCC Water Transportation Consultants Co., Ltd</b></div>
+      <div>(Oct 2023)</div>
+      </div>
+
+- <div class="container" style="display: flex; justify-content: space-between;">
+      <div><b>First Prize Scholarship, Dalian University of Technology</b></div>
+      <div>(Oct 2023)</div>
+      </div>
+
+- <div class="container" style="display: flex; justify-content: space-between;">
+      <div><b>Excellent Graduate, Dalian University of Technology</b></div>
       <div>(Sep 2023)</div>
       </div>
 
 - <div class="container" style="display: flex; justify-content: space-between;">
-      <div><b>First Prize Scholarship of Dalian University of Technology</b></div>
-      <div>(Sep 2023)</div>
+      <div><b>Second Prize Scholarship, Dalian University of Technology</b></div>
+      <div>(2021-2022)</div>
       </div>
 
 - <div class="container" style="display: flex; justify-content: space-between;">
-      <div><b>Third Prize in Structural Design Competition of Dalian University of Technology</b></div>
+      <div><b>Third Prize in Structural Design Competition, Dalian University of Technology</b></div>
       <div>(Jun 2019)</div>
       </div>
