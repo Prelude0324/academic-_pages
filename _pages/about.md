@@ -17,7 +17,7 @@ Since joining the Institute of Hydropower and Hydroinformatics at DUT in 2021, I
 
 I am now actively seeking a Ph.D. position to advance my academic and research pursuits. Please review this website and following links for additional information.
 
-[Email](mailto:mxy0324@mail.dlut.edu.cn) / [CV](https://prelude0324.github.io/academic_pages/files/Curriculum_Vitae.pdf) / [Github](https://github.com/Prelude0324) / [Researchgate](https://www.researchgate.net/profile/Xiangyu-Ma-21) /
+[Email](mailto:mxy0324@mail.dlut.edu.cn) / [CV](https://prelude0324.github.io/academic_pages/files/Xiangyu_Ma - CV.pdf) / [Github](https://github.com/Prelude0324) / [Researchgate](https://www.researchgate.net/profile/Xiangyu-Ma-21) /
 
 
 
