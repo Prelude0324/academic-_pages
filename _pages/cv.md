@@ -27,18 +27,16 @@ redirect_from:
     <div><b><a href="https://prelude0324.github.io/academic_pages/talks/2023-10-04-talk-4">Research on the water-energy-ecosystem nexus in hydro-based power systems</a></b></div>
     <div>(Apr 2023 - Present)</div>
     </div>
-
-
 - <div style="text-align: justify;">
   Suggested a multi-timescale two-layer nested framework to investigate the water-energy-ecosystem nexus in hydro-based power systems.
   </div>
 
 - <div style="text-align: justify;">
-  The outer layer is a long-term multi-objective water management model (with water levels as decision variables) balancing multi-sectoral performance in water supply, hydropower production, and sub-daily hydrological regime (hydropeaking).
+  The outer layer is a long-term, high-resolution, multi-objective water management model (with water levels as decision variables) that balances multi-sectoral performance including water supply, hydropower production, and sub-daily hydrological regime (hydropeaking).
   </div>
 
 - <div style="text-align: justify;">
-  The inner layer is a scenario-based stochastic programming model (with power output as decision variables) optimizing the operation of renewables-dominated power system.
+  The inner layer is a scenario-based stochastic programming model (with power output as decision variables) optimizing the operation of renewables-dominated power systems.
   </div>
 
 <div class="container" style="display: flex; justify-content: space-between;">
