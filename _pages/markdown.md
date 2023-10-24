@@ -39,17 +39,17 @@ After rigorous training in these projects, I have acquired solid theoretical kno
 </ul>
 
 
-
 <div class="container" style="display: flex; justify-content: space-between; color: #224b9d">
     <div><b>Development Project of Dispatching and Operation Analysis Functions for Pumped Storage Hydropower Stations</b></div>
     </div>
 <ul>
   <li><b>Time:</b> 2022.07 - Present</li>
   <li><b>Funding:</b> China Southern Power Grid Co., Ltd. (CSG, the world's largest hydropower system enterprise, with 120 GW hydropower installed capacity, nearly 8.6% of the global total of <a href="https://www.hydropower.org/">1,397 GW</a>)</li>
-  <li><b>Role:</b> Researcher, engaged in Data compilation and analysis, prototype interface design for monitoring pumped storage hydropower plants.</li>
+  <li><b>Role:</b> Researcher, engaged in data compilation and analysis, prototype interface design for monitoring pumped storage hydropower plants.</li>
   <li><b>Outcomes:</b> A software system
   </li>
 </ul>
+
 
 
 
@@ -68,4 +68,3 @@ After rigorous training in these projects, I have acquired solid theoretical kno
     </ul>
   </li>
 </ul>
-
