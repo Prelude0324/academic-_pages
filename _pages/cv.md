@@ -36,7 +36,7 @@ redirect_from:
   </div>
 
 - <div style="text-align: justify;">
-  The inner layer is a scenario-based stochastic programming model (with power output as decision variables) optimizing the operation of renewables-dominated power systems.
+  The inner layer is a scenario-based stochastic programming model (with power output as decision variables) that optimizes the operation of renewables-dominated power systems.
   </div>
 
 <div class="container" style="display: flex; justify-content: space-between;">
