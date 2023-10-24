@@ -58,7 +58,7 @@ redirect_from:
 </div>
 
 - <div style="text-align: justify;">
-  Employed constraint aggregation, trilinear interpolation, and SOS2 constraints to model and address high-dimensional nonlinear constraints in hydropower operation, resulting in improved solution efficiency.
+  Modeled the backwater jacking effect on tailwater level and employed constraint aggregation, trilinear interpolation, and SOS2 constraints to address the complex nonlinear constraints in hydropower operation.
   </div>
 
 - <div style="text-align: justify;">
